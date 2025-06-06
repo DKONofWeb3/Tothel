@@ -74,4 +74,4 @@ Currently under development — dashboard and classroom modules in progress. Log
 
 👨‍💻 Contributing
 
-Open to collaboration! If you’re a UI/UX designer, backend ninja, or testing wizard — feel free to connect.
+Open to collaboration! If you’re a UI/UX designer, or testing wizard. Feel free to connect.
